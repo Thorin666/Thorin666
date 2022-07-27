@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Undergraduate from Turing Class, Peking University.
+
 <!--
 **Thorin666/Thorin666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
