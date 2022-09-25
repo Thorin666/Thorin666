@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Undergraduate from Turing Class, Peking University.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorin666&layout=compact)](https://github.com/Thorin666/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorin666&layout=compact)](https://github.com/Thorin666)
 
 <!--
 **Thorin666/Thorin666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
